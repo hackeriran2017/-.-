@@ -38,9 +38,8 @@ $r =(makeHTTPRequest("sendMessage",[
 
 سورس این ربات بزودی کامل در گیت هاب قرار میگیرد و این ربات به همراه شناسه و اطلاعات قبلی به فروش می رسد .
 
-جهت سوالات بیشتر با @ssc_support تماس بگیرید.
-
-https://telegram.me/joinchat/BdES-zwJKKGeFT8434LVsQ",
+جهت سوالات بیشتر با @hackeriran2017 تماس بگیرید.
+314631846:AAFnNalDWqZpS0dB9FOBfeNREr7hdD8tOgk",
 'parse_mode'=>'HTML'
 ]));
 
